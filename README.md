@@ -80,8 +80,6 @@ This demonstrates the effectiveness of Machine Learning techniques for gesture r
 
 ## 📸 Project Preview
 
-Add screenshots after uploading them to the repository.
-
 ![Prediction Results](gesture.jpeg)
 
 ![Model Accuracy](accuracy.jpeg)
